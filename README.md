@@ -1,4 +1,4 @@
-# MyFirstRepo
+# My Super Project
 
 ## My project plan
 
