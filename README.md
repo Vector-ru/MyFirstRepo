@@ -1,4 +1,4 @@
-# MyFirstRepo
+# MyAwesomeProject
 
 ## My project plan
 
